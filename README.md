@@ -1,7 +1,9 @@
 heka-ganglia-output
 ===================
 
-Heka plugin to send accumulated stats to Ganglia
+heka-ganglia-output is a Heka plugin to send accumulated stats to Ganglia.
+
+heka-ganglia-output is released under an MIT-style open source license -- see LICENSE for details.
 
 Uses Jeff Buchbinder's go-gmetric library (https://github.com/jbuchbinder/go-gmetric).
 
